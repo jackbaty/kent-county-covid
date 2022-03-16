@@ -1,4 +1,4 @@
 - url: https://covidactnow.org/us/michigan-mi/county/kent_county/?s=30531911
   output: cases.png
   height: 800
-  selector: ".sc-pBAKv ecUfTG"
+  selector: ".sc-qbDCV kBqPIc"
